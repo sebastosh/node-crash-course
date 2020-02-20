@@ -1,6 +1,6 @@
-const User = require('./user');
-const user1 = new User('Sam', 33);
-user1.howdy();
+// const User = require('./user');
+// const user1 = new User('Sam', 33);
+// user1.howdy();
 
 const http = require('http');
 const path = require('path');
