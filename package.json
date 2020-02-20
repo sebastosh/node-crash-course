@@ -1,10 +1,10 @@
 {
-  "name": "node-crash",
+  "name": "node-crash-course",
   "version": "1.0.0",
-  "description": "crash course",
+  "description": "node crash course",
   "main": "index.js",
   "scripts": {
-    "start": "node index", 
+    "start": "node index.js", 
     "dev": "nodemon index"
   },
   "author": "Seb",
